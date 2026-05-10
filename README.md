@@ -52,18 +52,4 @@
 </p>
 
 
----
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=svyat777&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svyat777" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=svyat777" />
-</p>
