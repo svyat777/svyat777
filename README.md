@@ -23,8 +23,7 @@
 ---
 
 ### 🤍 About Me
-
-- 🤔 I’m looking for help with depression  
+- I have experience with HTML5 CSS3 SCSS JavaScript most
 - ✨ I like creative things and learning new stuff  
 
 ---
